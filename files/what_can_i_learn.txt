@@ -1,0 +1,9 @@
+What Can I Learn?
+[ ] What is a API Transformer
+[ ] How to transform data
+[ ] What is a Resources
+[ ] Two types of resources
+[ ] What is a Serializers
+[ ] What are the different serializers
+[ ] How to include other resources in a transformer
+[ ] How to use transformer pagination
